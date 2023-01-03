@@ -1,14 +1,14 @@
 # AVL_Tree_Visualizer
-Projek Struktur Data Aplikasi AVL Tree Visualizer
+Project Structur Data Aplication AVL Tree Visualizer
 
-## Kelompok
+## Group 1
 1. Stephanus Johan | C14210070 | Insert, Delete, GUI
 2. Jeanne Angeline | C14210129 | Left, Right rotation, Level of tree
 3. Darren Sutawijaya | C14210239 | BFS, preorder
 4. Jane Iolana | C14210122 | postorder, inorder, search
 
-## Demo Projek
-[![Watch the video](https://media.discordapp.net/attachments/1012914434626297941/1049288647695933500/32.png)](https://)
+## Requirement
+Python only (recommended using version 3.10)
 
 ## Features
 Visualization of AVL Tree
@@ -23,3 +23,6 @@ Clear / Reset Tree
 
 ## Proposal
 (https://docs.com)
+
+## Demo Projek
+[![Watch the video](https://media.discordapp.net/attachments/1012914434626297941/1049288647695933500/32.png)](https://)
