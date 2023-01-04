@@ -1,5 +1,5 @@
 # AVL_Tree_Visualizer
-Project Structur Data Application AVL Tree Visualizerx
+Project Structur Data Application AVL Tree Visualization
 
 ## Group 1
 1. Stephanus Johan | C14210070 | Insert, Delete, GUI
@@ -24,5 +24,5 @@ https://stackoverflow.com/questions/34012886/print-binary-tree-level-by-level-in
 - Post Order
 - Clear / Reset Tree
 
-## Demo Projek
+## Video Demo Project
 [![Watch the video](https://media.discordapp.net/attachments/1050696456417316884/1060161074512539698/image.png)](https://youtu.be/pOlCaWz991c)
