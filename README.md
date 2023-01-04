@@ -1,4 +1,4 @@
-# AVL_Tree_Visualizer
+# AVL Tree Visualizer
 Project Structur Data Application AVL Tree Visualization
 
 ## Group 1
