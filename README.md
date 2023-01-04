@@ -14,15 +14,15 @@ Python only (recommended using Latest version)
 https://stackoverflow.com/questions/34012886/print-binary-tree-level-by-level-in-python
 
 ## Features
-Visualization of AVL Tree
-Insert Node
-Delete Node
-Search Node
-BFS Order
-Pre Order
-In Order
-Post Order
-Clear / Reset Tree
+- Visualization of AVL Tree
+- Insert Node
+- Delete Node
+- Search Node
+- BFS Order
+- Pre Order
+- In Order
+- Post Order
+- Clear / Reset Tree
 
 ## Demo Projek
 [![Watch the video](https://media.discordapp.net/attachments/1012914434626297941/1049288647695933500/32.png)](https://)
