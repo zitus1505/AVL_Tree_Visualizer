@@ -1,5 +1,5 @@
 # AVL_Tree_Visualizer
-Project Structur Data Aplication AVL Tree Visualizerx
+Project Structur Data Application AVL Tree Visualizerx
 
 ## Group 1
 1. Stephanus Johan | C14210070 | Insert, Delete, GUI
